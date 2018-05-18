@@ -10,7 +10,7 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "chartjs": "^0.3.24"
+    "chart.js": "^2.7.2"
   },
   "scripts": {
     "dev": "webpack-dev-server --mode development",
